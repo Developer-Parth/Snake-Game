@@ -35,9 +35,13 @@ A simple but visually polished snake game built using HTML5 Canvas, JavaScript, 
 2. Open `index.html` in any modern browser
 3. Alternatively, deploy on services like **Vercel** or **Netlify** for live hosting
 
+## 📸 Preview *(optional)*
+
+*Add a screenshot or GIF here to showcase the gameplay visually.*
+
 ## 📜 License
 
-This project is open-source and free to use under the [MIT License](MIT License).
+This project is open-source and free to use under the [MIT License]([https://opensource.org/licenses/MIT](https://github.com/Developer-Parth/Snake-Game/blob/main/LICENSE)).
 
 ---
 
