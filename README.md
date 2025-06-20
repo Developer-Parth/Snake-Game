@@ -2,6 +2,11 @@
 
 A simple but visually polished snake game built using HTML5 Canvas, JavaScript, and CSS. Control the snake using either arrow keys or WASD, eat the red squares (fruits), and avoid crashing into yourself or the walls.
 
+
+## 📸 Preview
+
+[image.png](https://snake-game-parth-thukral.vercel.app/)
+
 ## 🎮 Live Preview
 
 [Play the Snake Game](https://snake-game-parth-thukral.vercel.app/)
@@ -34,10 +39,6 @@ A simple but visually polished snake game built using HTML5 Canvas, JavaScript, 
 1. Clone the repository or download the ZIP
 2. Open `index.html` in any modern browser
 3. Alternatively, deploy on services like **Vercel** or **Netlify** for live hosting
-
-## 📸 Preview *(optional)*
-
-*Add a screenshot or GIF here to showcase the gameplay visually.*
 
 ## 📜 License
 
