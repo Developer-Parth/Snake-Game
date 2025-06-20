@@ -5,11 +5,11 @@ A simple but visually polished snake game built using HTML5 Canvas, JavaScript, 
 
 ## 📸 Preview
 
-[image.png](https://snake-game-parth-thukral.vercel.app/)
+<a href="https://snake-game-parth-thukral.vercel.app"><img src="image.png" alt="preview"></a>
 
 ## 🎮 Live Preview
 
-[Play the Snake Game](https://snake-game-parth-thukral.vercel.app/)
+[Play the Snake Game](https://snake-game-parth-thukral.vercel.app)
 
 ## 📁 Project Structure
 
